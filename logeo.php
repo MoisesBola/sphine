@@ -7,7 +7,7 @@ require_once('conexion.php');
 // Check connection
 
 $usuario = $_POST['correo'];
-$contraseña = $_POST{'contraseña'};
+$contraseña = $_POST['contraseña'];
 
 $sql = pg_query($conn, "SELECT idusuario, contrasena FROM motos.usuario WHERE idusuario='$usuario' AND contrasena='$contraseña'");
 
