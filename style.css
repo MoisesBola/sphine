@@ -1,0 +1,307 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url('images/fondo.jpg');
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    margin: auto;
+  }
+  
+  .form-register {
+    width: 600px;
+    height:100%;
+    background: #f8f9fa;
+    padding: 30px;
+    margin: auto;
+    margin-left: 20px;
+    border-radius: auto;
+    font-family: 'calibri';
+    color: #1f53c5;
+    box-shadow: 7px 13px 37px #000;
+    position: relative;
+    top: -500px; left: 650px;
+  }
+  .form-register1 {
+    width: 600px;
+    height:500px;
+    background: #f8f9fa;
+    padding: 30px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: auto;
+    font-family: 'calibri';
+    color: #1f53c5;
+    box-shadow: 7px 13px 37px #000;
+    position: relative;
+    top: 60px; left: 20px;
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    position: relative;
+    top: auto; left: 200px;
+  }
+  .form-register h5 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    position: relative;
+    top: -50px; left: -500px;
+  }
+  
+  
+  .controls {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+  }
+  .controls1 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -10px; left: 150px;
+  }
+  .titulo1 {
+    color:#1f53c5 ;
+    text-decoration: none;
+    position: relative;
+    top: -50px; left: 350px;
+  }
+  .controls2 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -75px; left: -150px;
+  }
+  .titulo2 {
+    color: #1f53c5;
+    text-decoration: none;
+    position: relative;
+    top: -110px; left: 25px;
+  }
+  .controls3 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -80px; left: -155px;
+  }
+  .titulo3 {
+    color:#1f53c5 ;
+    text-decoration: none;
+    position: relative;
+    top: -120px; left:20px;
+  }
+  .controls4 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -60px; left: -155px;
+    
+  }
+  .titulo4 {
+    color:#1f53c5 ;
+    text-decoration: none;
+    position: relative;
+    top: -100px; left: 50px;
+  }
+  .controls5 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -10px; left: -10px;
+    float: left;
+  }
+  .titulo5 {
+    color:#1f53c5 ;
+    text-decoration: none;
+    position: relative;
+    top: -290px; left: 330px;
+    float: left;
+  }
+  .controls6 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -150px; left: -5px;
+    float: left;
+  }
+  .titulo6 {
+    color:#1f53c5 ;
+    text-decoration: none;
+    position: relative;
+    top:-105px; left: -250px;
+    float: left;
+  }
+  .controls7 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: 50px; left: 285px;
+  }
+  .controls8 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: 60px; left: 285px;
+  }
+  .controls9 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: 70px; left: 285px;
+  }
+  .controls10 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -145px; left: -5px;
+  }
+  .controls11 {
+    width: 50%;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: #1f53c5;
+    position: relative;
+    top: -135px; left: -5px;
+  }
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .form-register a {
+    color: #1f53c5;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: #1f53c5;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 200px;
+    background: #1f53c5;
+    border: none;
+    padding: 15px;
+    color: white;
+    margin: 0px ;
+    font-size: 16px;
+    position: relative;
+    top: -200px; left: 30px;
+    float: left;
+    margin-top: 5px;
+  }
+  
+  .form-register1 .botons1 {
+    width: 200px;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 5px ;
+    font-size: 16px;
+    position: relative;
+    top: 20px; left: -150px;
+  }
+  .boton3 {
+    width: 200px;
+    padding: 12px;
+    background-color: #1f53c5;
+    color: white;
+    border:none;
+    margin: 5px ;
+    font-size: 16px;
+    position: relative;
+    top: -70px; left: 195px;
+ }
+ 
